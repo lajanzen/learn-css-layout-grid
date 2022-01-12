@@ -11,12 +11,12 @@ In the following you will learn how to use this repository:
    - On the page that opens in the browser, open `recipes.html`
 
 The page that opens looks like this:
-![sample-code](first-sample.png)
+![sample-code](assets/first-sample.png)
 
 Now, you can show your students the code and its output in the browser.
 Use CSS grid in `recipes.css` to make the page look something like this:
 
-![goal](goal.png)
+![goal](assets/goal.png)
 
 In case you're not sure how to adjust your CSS, you can find a solution in the branch [solution](https://github.com/lajanzen/learn-css-layout-grid/tree/solution).
 
